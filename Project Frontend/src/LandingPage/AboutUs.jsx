@@ -11,7 +11,7 @@ const AboutUs = () => {
             <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700">Learn More</button>
           </div>
           <div className="md:w-1/2">
-            <img src="/path-to-about-image.jpg" alt="About Us" className="rounded-lg shadow-lg" />
+            <img src="src/assets/istockphoto-639698498-612x612.jpg" alt="About Us" className="rounded-lg shadow-lg" />
           </div>
         </div>
       </section>

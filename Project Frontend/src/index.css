@@ -73,3 +73,17 @@
         @apply text-wrap
     }
 }
+.profilemenu{
+    display: flex;
+    flex-direction: column;
+    padding: 1.5em;
+    justify-content: center;
+    align-items: center;
+    color:hsl(0, 0%, 60%);
+}
+.profilemenu li{
+    margin: 4px;
+}
+.profilemenu li a:hover, .profilemenu li:hover{
+    color: white;
+}

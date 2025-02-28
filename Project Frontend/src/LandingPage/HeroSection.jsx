@@ -3,8 +3,8 @@ const HeroSection = () => {
     return (
       <section
         id="home"
-        className="bg-cover bg-center h-screen flex items-center justify-center text-center relative"
-        style={{ backgroundImage: "url('/path-to-your-image.jpg')" }}
+        className="bg-cover bg-center h-screen flex items-center justify-center text-center relative z-0"
+        style={{ backgroundImage: "url('/src/assets/modern-campus-building-higher-ed.jpg')" }}
       >
         <div className="bg-black bg-opacity-50 text-white p-6 rounded-lg">
           <h1 className="text-4xl md:text-6xl font-bold mb-4">Connecting Alumni, Inspiring Futures</h1>

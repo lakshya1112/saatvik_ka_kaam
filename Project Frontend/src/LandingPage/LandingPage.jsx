@@ -7,14 +7,14 @@ import Footer from "./Footer";
 
 function LandingPage() {
   return (
-    <div>
+    <>
       <Header />
       <HeroSection />
       <Features />
       <AboutUs />
       <Testimonials />
       <Footer />
-    </div>
+    </>
   );
 }
 
